@@ -1,0 +1,56 @@
+	
+@font-face{
+	font-family: Basteleur-Moonlight;
+	src:url(fonts/Basteleur-Moonlight.woff);
+}
+
+	body{
+		background: rgba(10, 100, 40, 1.0);
+		color: rgba(255, 249, 255, 1.0);
+		font-family: Basteleur-Moonlight;
+
+		}
+	p{
+		font-family: Basteleur-Moonlight;
+	 }
+
+	 .neo-paragraph{
+	 	color: rgba(30, 255, 30, 1.0);
+	 }
+
+	a{
+		color: lightgoldenrodyellow;
+	 }
+
+	a:visited{
+		color: palegreen;
+	 }
+
+	#nav{
+		background: yellowgreen;
+		font-family: comic sans ms;
+		color: white;
+		width: 100px;
+		margin: 50px;
+		padding: 30px;
+
+		}
+
+	#th-cen{
+		font-size: 150pt;
+			 }
+
+	#nav a{
+		color: white;
+		  }
+
+	h1{
+		color: white;
+	.neo-paragraph{
+		color: rgba(30, 255, 30, 1.0);
+	  	}
+
+	h2{
+		color: rgba(255, 255, 255, 1.0);
+
+	  }
